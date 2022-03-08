@@ -116,9 +116,18 @@ body {
 #hero button {
   color: #088178;
   padding: 14px 80px 14px 65px;
-  border: none;
+  border: 0;
   border-radius: 8px;
-  font-size: 20px;
-  font-weight: bold;
+  font-size: 15px;
+  font-weight: 700;
   cursor: pointer;
+}
+#feature .fe-box {
+  width: 180px;
+  text-align: center;
+  padding: 25px 15px;
+  box-shadow: 20px 20px 34px rgba(0, 0, 0, 0.03);
+  border: 1px solid#cce7d0;
+  border-radius: 4px;
+  margin: 15px 0;
 }
